@@ -1,0 +1,23 @@
+.h1{
+    border-top: inset;
+    border-left: inset;
+    border-right: inset;
+    border-bottom: inset;
+    height: 200px;
+    width: 200px;
+    border-color: orange;
+    background-color: orange;
+    
+
+}
+.h2{
+    border-top: inset;
+    border-left: inset;
+    border-right: inset;
+    border-bottom: inset;
+    height: 200px;
+    width: 200px;
+    border-color: aqua;
+    background-color: aqua;
+    
+}
